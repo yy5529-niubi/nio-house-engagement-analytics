@@ -28,12 +28,11 @@ The analysis follows a structured pipeline:
 
 ## Repository Structure
 
-.
-├── NIO.R                     # Main analysis script  
-├── run_nio_refresh_pipeline.R  # Automated pipeline  
-├── deliverable_*.csv         # Final analytical outputs  
-├── nio_house_*.csv           # Input datasets  
-└── README.md  
+- NIO.R                       # Main analysis script  
+- run_nio_refresh_pipeline.R  # Automated pipeline  
+- deliverable_*.csv           # Final analytical outputs  
+- nio_house_*.csv             # Input datasets  
+- README.md  
 
 ---
 
