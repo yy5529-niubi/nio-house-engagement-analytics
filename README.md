@@ -35,19 +35,6 @@ The analysis follows a structured pipeline:
 
 ---
 
-## Repository Structure
-├── NIO.R # Main analysis script
-├── run_nio_refresh_pipeline.R # Automated data refresh pipeline
-├── deliverable_exec.csv # Executive summary metrics
-├── deliverable_activity_scorecard.csv # Activity performance results
-├── deliverable_segment_net.csv # Segment-level impact
-├── segment_profile_active.csv # User segmentation profiles
-├── sensitivity_windows.csv # Sensitivity analysis results
-├── mc_summary.csv # Monte Carlo simulation results
-└── return_summary.csv # Retention metrics
-
----
-
 ## Tools and Technologies
 - R  
 - tidyverse  
