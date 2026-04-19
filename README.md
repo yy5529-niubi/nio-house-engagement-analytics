@@ -26,6 +26,17 @@ The analysis follows a structured pipeline:
 
 ---
 
+## Repository Structure
+
+.
+├── NIO.R                     # Main analysis script  
+├── run_nio_refresh_pipeline.R  # Automated pipeline  
+├── deliverable_*.csv         # Final analytical outputs  
+├── nio_house_*.csv           # Input datasets  
+└── README.md  
+
+---
+
 ## Key Results
 - Positive engagement impact from activity participation  
 - Measurable uplift in visit frequency, spending, and retention  
